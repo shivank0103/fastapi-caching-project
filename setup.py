@@ -8,7 +8,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name='python_caching_framework',
+    name='cashifypythoncachingframework',
     version='0.0.1',
     description='Caching framework for Python',
     url='https://github.com/shivank0103/python-caching-project',
